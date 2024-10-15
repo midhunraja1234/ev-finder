@@ -44,6 +44,7 @@ const Book = () => {
                             <option value="Gate - A">Gate - A</option>
                             <option value="Gate - B">Gate - B</option>
                             <option value="Gate - C">Gate - C</option>
+                            <option value="Gate - D">Gate - D</option>
                             <option value="MAIN PARKING">MAIN PARKING</option>
                             <option value="PARKING (GROUND SIDE)">PARKING (GROUND SIDE)</option>
                             <option value="RESEARCH PARK">RESEARCH PARK</option>
